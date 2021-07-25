@@ -1,1 +1,25 @@
-
+body {
+  background-color: #FFD;
+  font-family: sans-serif;
+  text-align: center;
+  padding: 10px;
+}
+#main {
+  background-color: #FFA;
+  padding: 10px;
+}
+#image {
+  background-color: #FFD;
+  display: block;
+  margin: auto;
+  margin-bottom: -25px;
+  padding: 20px 200px 40px 200px;
+  max-width: 100%;
+  height: auto;
+}
+ul {
+  text-align: left;
+  line-height: 2em;
+  max-width: 500px;
+  margin: 0 auto;
+}
